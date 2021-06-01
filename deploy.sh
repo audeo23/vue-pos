@@ -14,6 +14,6 @@ git add -A
 git commit -m 'deploy'
 
 # if you are deploying to https://<USERNAME>.github.io/<REPO>
-git push -f git@github.com:audeo23/vue-pos.git master:gh-pages
+git push -f git@github.com:audeo23/vue-pos.git main:gh-pages
 
 cd -
