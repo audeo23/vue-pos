@@ -1,4 +1,4 @@
-# vue-pos
+# vue-pos - A simple point of sale project made with VueJS3
 
 ## Project setup
 ```
